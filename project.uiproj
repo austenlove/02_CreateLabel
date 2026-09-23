@@ -1,0 +1,6 @@
+{
+  "Name": "02_CreateLabel",
+  "ProjectType": "Process",
+  "Description": "Robotic Enterprise Framework",
+  "MainFile": "Main.xaml"
+}
